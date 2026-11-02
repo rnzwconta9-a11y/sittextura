@@ -1,0 +1,32 @@
+RNZW SKINS - PRONTO PARA VERCEL
+
+PUBLICAR (sem instalar nada):
+1. Extraia este arquivo ZIP.
+2. Acesse https://vercel.com/new e importe a pasta RNZW-SKINS-VERCEL usando um repositório Git ou a CLI da Vercel.
+3. Projeto estático: Framework Preset = Other, sem build command, Output Directory padrão (vazio).
+4. Clique em Deploy.
+
+OU via terminal, na pasta extraída:
+   npx vercel --prod
+
+O index.html está na raiz da pasta.
+Sem Node, npm install ou banco de dados obrigatórios.
+
+LINKS:
+- Comunidade: https://discord.gg/a4QmpBuw33
+- Sonic WhatsApp: https://whatsapp.com/channel/0029Vb7IMzIAu3aGmbEfWL3I
+- Texture Pro: https://texturapro.fun/
+
+DOWNLOADS LOCAIS:
+- Angelical Azul iOS: downloads/angelical-azul-ios.3105 (arquivo iOS 16)
+- Angelical Azul Android: downloads/angelical-azul-android.zip (arquivo Android 15)
+- Angelical Vermelha iOS: downloads/angelical-vermelha-ios.3105 (arquivo iOS 17)
+- Angelical Vermelha Android: downloads/angelical-vermelha-android.zip (arquivo Android 17)
+
+IMPORTANTE:
+O Android da Angelical Azul foi associado ao arquivo enviado de numero 15,
+porque nao havia um ZIP Android de numero 16 entre os arquivos enviados.
+Os arquivos sao copiados sem modificar seu conteudo binario.
+
+Para trocar downloads, substitua os arquivos na pasta downloads mantendo os nomes,
+ou edite os links href no index.html.
